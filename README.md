@@ -1,4 +1,4 @@
-                                                                            ### Khan-Acedamy_Q&A###
+                                                                    ### Khan-Acedamy_Q&A###
 
 What are your favorite books? You can make a database table to store them in! In this first step, create a table to store your list of books. It should have columns for id, name, and rating.
 
